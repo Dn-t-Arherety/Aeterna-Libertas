@@ -36,8 +36,8 @@ Complete ethical and technical architecture for:
 ### 📚 Documentation
 - [Full Specification](SPECIFICATION.md)
 - [Ethical Framework](ETHICS.md)
-- [Verification Protocol](VERIFICATION.md)
-[CENSORSHIP CASE](CENSORSHIP_CASE.md)
+- [Verification Protocol](VERIFICATION.md) 
+- [CENSORSHIP CASE](CENSORSHIP_CASE.md)
 ### 🌍 Status
 - **Current Phase:** Scientific review and community development
 - **License:** Open Heritage (author rights preserved)
